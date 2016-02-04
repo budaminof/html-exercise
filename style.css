@@ -1,0 +1,43 @@
+body {
+  margin-left: 40px;
+  font-family: sans-serif;
+}
+div {
+border: solid black 1px;
+}
+
+#nav {
+  float: left;
+  height: 500px;
+  width: 150px;
+  padding-left: 10px;
+}
+
+#info {
+  border: none;
+  margin-left: 200px;
+  margin-right: 550px;
+  padding-bottom: 30px;
+}
+
+#info p {
+  font-size: 14px;
+}
+.product {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+img{
+  border: solid 1px;
+  height: 85px;
+  width: 85px;
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-bottom: 45px;
+}
+
+h4{
+  padding-left: 10px;
+  height: 15px;
+}
