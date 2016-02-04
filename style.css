@@ -6,21 +6,22 @@ div {
 border: solid black 1px;
 }
 
-#nav {
+nav {
+  border: solid black 1px;
   float: left;
   height: 500px;
   width: 150px;
   padding-left: 10px;
 }
 
-#info {
+article {
   border: none;
   margin-left: 200px;
   margin-right: 550px;
   padding-bottom: 30px;
 }
 
-#info p {
+article p {
   font-size: 14px;
 }
 .product {
